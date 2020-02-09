@@ -17,5 +17,5 @@ open http://localhost:5000/
 
 Deploy to surge
 ```
-surge . hacker-news-one-page.surge.sh
+surge
 ```
